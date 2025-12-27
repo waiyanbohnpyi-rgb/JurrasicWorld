@@ -1,5 +1,5 @@
 body{
-    background-image: url(Dinosaur/background.jpg);
+    background-image: url(Dinosaur\ background.jpg);
 }
 p{
     color: aliceblue;
@@ -31,3 +31,4 @@ h1{
     text-align: left;
 
 }
+
