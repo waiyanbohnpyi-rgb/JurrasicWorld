@@ -1,5 +1,5 @@
 body{
-    background-image: url(Dinosaur\ background.jpg);
+    background-image: url(/Dinosaur\ background.jpg);
 }
 a{
     background-color: #4ade80;
@@ -37,5 +37,6 @@ h3{
     font-size: 60px;
     font-family: sans-serif;
 }
+
 
 
